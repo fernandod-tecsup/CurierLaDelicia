@@ -19,6 +19,10 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="MenuB" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">@font/bebasneue_regular</item>
+    </style>
+
     <style name="Theme.CurierLaDelicia.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.CurierLaDelicia.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
